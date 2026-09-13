@@ -1,0 +1,14 @@
+﻿sexo,ciclo_vital,casos
+Hombre,(00 a 05) Primera Infancia,26
+Mujer,(00 a 05) Primera Infancia,12
+Hombre,(06 a 11) Infancia,28
+Mujer,(06 a 11) Infancia,12
+Hombre,(12 a 17) Adolescencia,100
+Mujer,(12 a 17) Adolescencia,27
+Hombre,(18 a 28) Juventud,1483
+Mujer,(18 a 28) Juventud,365
+Hombre,(29 a 59) Adultez,2087
+Mujer,(29 a 59) Adultez,487
+Hombre,(Más de 60) Adulto Mayor,1147
+Mujer,(Más de 60) Adulto Mayor,425
+Hombre,Fetos,1

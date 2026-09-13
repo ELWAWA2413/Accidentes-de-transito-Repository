@@ -1,0 +1,21 @@
+{
+  "registros": 6193,
+  "casos": 6200,
+  "sin_localidad": 250,
+  "sin_dia_hora": 2051,
+  "sin_mes": 1,
+  "auditoria": {
+    "sha256_csv": "1ed3cc6639ce43caf31b303d44501015c4a65262e724c626675d09396005d4b2",
+    "filas_originales": 12386,
+    "columnas_originales": 18,
+    "suma_bruta_no_utilizar": 12400,
+    "filas_distritales_excluidas_del_hecho": 6193,
+    "replica_geografica_exacta": true,
+    "filas_analiticas": 6193,
+    "casos_analiticos": 6200,
+    "duplicados_exactos_fuente_excedentes": 20,
+    "duplicados_exactos_detalle_excedentes": 0,
+    "minimo_10000_fuente": true,
+    "minimo_10000_analitico": false
+  }
+}
