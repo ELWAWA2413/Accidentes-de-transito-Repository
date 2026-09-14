@@ -1,4 +1,68 @@
 # Caso_Accidentes
+# Taller Grupo 6 : ETL-Project: First Delivery
+
+## Integrantes
+Laura Torres
+Juliana Serrano
+Juan Hernandez
+Juan Lopéz
+
+# 📋 Asignación de Actividades y Roles del Proyecto
+
+Este documento detalla la distribución de tareas, responsabilidades y entregables asignados a cada integrante del equipo para el desarrollo del proyecto.
+
+---
+
+## 👥 Equipo de Trabajo y Responsabilidades
+
+### 👩‍💻 Laura Torres
+* **Rol / Área:** *Ej. Lógica de Datos / Documentación General*
+* **Actividades Asignadas:**
+  * [ ] Definición del pipeline de datos y estructura general del proyecto.
+  * [ ] Redacción y estandarización del archivo `README.md` y documentación técnica.
+  * [ ] Integración de módulos principales.
+
+---
+
+### 👩‍💻 Juliana Serrano
+* **Rol / Área:** *Ej. Diseño de Pruebas / Análisis*
+* **Actividades Asignadas:**
+  * [ ] Análisis exploratorio de datos y verificación de calidad.
+  * [ ] Pruebas unitarias y validación del código.
+  * [ ] Elaboración de informes de progreso.
+
+---
+
+### 👨‍💻 Juan Hernández
+* **Rol / Área:** *Ej. Desarrollo Back-end / Arquitectura*
+* **Actividades Asignadas:**
+  * [ ] Configuración del entorno de desarrollo y gestión de dependencias.
+  * [ ] Implementación de funciones core y lógica del sistema.
+  * [ ] Mantenimiento y control de versiones en el repositorio Git.
+
+---
+
+### 👨‍💻 Juan López
+* **Rol / Área:** *Ej. Visualización / Despliegue*
+* **Actividades Asignadas:**
+  * [ ] Diseño de paneles de control y gráficos interactivos.
+  * [ ] Optimización del rendimiento de las consultas y scripts.
+  * [ ] Preparación del paquete final para la entrega.
+
+---
+
+## 📅 Matriz de Seguimiento de Tareas
+
+| Actividad / Tarea | Responsable | Estado | Fecha Límite |
+| :--- | :--- | :---: | :---: |
+| Configuración de repositorio y estructura base | **Juan Hernández** | 🟢 Completado | DD/MM/AAAA |
+| Redacción de documentación y requerimientos | **Laura Torres** | 🟡 En progreso | DD/MM/AAAA |
+| Limpieza y procesamiento de datos | **Juliana Serrano** | 🟡 En progreso | DD/MM/AAAA |
+| Desarrollo de visualizaciones e interfaz | **Juan López** | 🔴 Pendiente | DD/MM/AAAA |
+
+
+---
+
 
 Primera entrega de ETL: análisis de mortalidad por accidentes de tránsito en Bogotá, con el CSV aportado de SDS / SALUDATA para 2015-2025.
 
