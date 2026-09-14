@@ -2,10 +2,10 @@
 # Taller Grupo 6 : ETL-Project: First Delivery
 
 ## Integrantes
-Laura Torres
-Juliana Serrano
-Juan Hernandez
-Juan Lopéz
+* **Laura Torres**
+* **Juliana Serrano**
+* **Juan Hernandez**
+* **Juan Lopéz**
 
 # 📋 Asignación de Actividades y Roles del Proyecto
 
